@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Eliran bar jjjjj
+          Learn Eliran bar jjjjjeeeeeS
         </a>
       </header>
     </div>
